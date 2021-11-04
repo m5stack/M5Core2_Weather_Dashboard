@@ -1,0 +1,15 @@
+[submodule "components/i2c_manager"]
+	path = components/i2c_manager
+	url = https://github.com/imliubo/i2c_manager
+[submodule "components/weather_seniverse"]
+	path = components/weather_seniverse
+	url = https://github.com/fmkong/weather_seniverse
+[submodule "components/lvgl_esp32_drivers"]
+	path = components/lvgl_esp32_drivers
+	url = https://github.com/lvgl/lvgl_esp32_drivers
+[submodule "components/lvgl"]
+	path = components/lvgl
+	url = https://github.com/lvgl/lvgl
+[submodule "components/axp192"]
+	path = components/axp192
+	url = https://github.com/tuupola/axp192/
